@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>environments/env0.txt</file>
+        <file>environments/env1.txt</file>
+        <file>environments/env2.txt</file>
+        <file>environments/env3.txt</file>
+        <file>environments/env4.txt</file>
+        <file>environments/env5.txt</file>
+        <file>environments/env6.txt</file>
+        <file>environments/env7.txt</file>
+    </qresource>
+</RCC>
